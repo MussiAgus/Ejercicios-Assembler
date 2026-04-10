@@ -1,0 +1,11 @@
+# 🔤 Manipulación de Strings en RISC-V
+
+En esta sección se exploran las técnicas de manejo de cadenas de caracteres. A diferencia de los arrays numéricos, aquí el control de flujo depende del centinela de fin de cadena (null terminator).
+
+## 🧠 Conceptos Implementados
+- **Cálculo de longitud:** Implementación de `strlen` para determinar dinámicamente el tamaño de la cadena en memoria.
+- **Inversión de cadena:** Algoritmo que recorre la memoria en sentido inverso utilizando el puntero de base y el desplazamiento calculado.
+- **Búsqueda de subcadenas:** Lógica para determinar si una palabra está contenida dentro de una frase, utilizando comparación iterativa.
+
+## 📁 Contenido
+- `reverse_string.s`: Toma una cadena y la imprime por consola en orden inverso.

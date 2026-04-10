@@ -11,10 +11,10 @@ Repositorio dedicado al estudio de la arquitectura de computadoras y programaci�
 ## Estructura del Repositorio
 El proyecto está organizado en 4 módulos principales:
 
-1. **[Funciones con Arrays](./Funciones_con_arrays):** Ordenamiento (Bubble Sort), búsqueda de máximos/mínimos y manipulación de vectores.
-2. **[Funciones con Strings](./Funciones_con_strings):** Inversión de cadenas, cálculo de longitud y búsqueda de patrones.
-3. **[Funciones Conocidas](./Funciones_conocidas):** Reimplementación de librerías estándar como atoi, toLower y comparaciones case-insensitive.
-4. **[Operaciones Aritméticas](./Operaciones_aritmeticas):** Multiplicación y división optimizada mediante bit-shifting.
+1. Funciones con Arrays : Ordenamiento (Bubble Sort), búsqueda de máximos/mínimos y manipulación de vectores.
+2. Funciones con Strings : Inversión de cadenas, cálculo de longitud y búsqueda de patrones.
+3. Funciones Conocidas : Reimplementación de librerías estándar como atoi, toLower y comparaciones case-insensitive.
+4. Operaciones Aritméticas : Multiplicación y división optimizada mediante bit-shifting.
 
 ## Herramientas
 - **Simulador:** [Ripes](https://github.com/mortbopet/Ripes) (Visualización de Data Path y Pipeline).
